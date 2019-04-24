@@ -1031,7 +1031,7 @@
 			input[type="button"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				background-color: #039be5;
+				background-color: #e53935;
 			}
 
 			input[type="submit"].style2:active,
